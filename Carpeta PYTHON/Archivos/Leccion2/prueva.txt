@@ -1,0 +1,7 @@
+Programamos con diferente tipos de archivo hora en txt.
+los acentos son importantes para las palabras
+como por ejemplo : accion , ejecucionlas letras son:
+r read leer , 
+a append anexa , 
+w  write escribe , 
+x crear un archivocon esto terminamos
